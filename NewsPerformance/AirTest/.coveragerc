@@ -1,0 +1,5 @@
+[run]
+branch = True
+omit =
+	airtest/core/ios/*
+    airtest/utils/*
